@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 19 09:28:53 2020
-
-@author: ADMIN
-"""
-
 import random
 while True: #Xét điều kiện nhập
   n = int(input('Số lượng phần tử trong dãy:'))   #Nhập số lượng phần tử trong dãy
